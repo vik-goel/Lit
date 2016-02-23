@@ -1,0 +1,9 @@
+*.iml
+/app/src/main/java/mchacks/io/lit/Key.java
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures

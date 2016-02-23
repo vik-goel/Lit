@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lit</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="gps_network_not_enabled">Location services must be enabled to update your location.\nWould you like to enable them?</string>
+
+    <string-array name="photo_select_action">
+        <item>Take photo</item>
+        <item>Choose existing photo</item>
+    </string-array>
+</resources>
